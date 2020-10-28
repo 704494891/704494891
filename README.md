@@ -14,7 +14,7 @@
   <strong><a href="https://blog.csdn.net/crazty?spm=1010.2135.3001.5113">CSDN</a></strong> 
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I am currently engaged in object detection research based on traditional image algorithms and deep learning.</p>
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
