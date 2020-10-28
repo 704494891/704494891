@@ -1,9 +1,9 @@
 <p align="center">
-  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/704494891/704494891/blob/main/1936.gif">
-  <a href="https://www.edisonlee55.com"><img src="banner.png" alt="edisonlee55 Banner"></a>
+  <img hight="400" width="500" alt="GIF" align="center" src="https://github.com/704494891/704494891/blob/main/1936.gif">
+ 
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">YeYa Ji</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
