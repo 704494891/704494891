@@ -1,5 +1,5 @@
 <p align="center">
-  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/704494891/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/704494891/704494891/blob/main/1936.gif">
   <a href="https://www.edisonlee55.com"><img src="banner.png" alt="edisonlee55 Banner"></a>
 </p>
 
