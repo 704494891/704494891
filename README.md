@@ -1,5 +1,5 @@
 <p align="center">
-  <img hight="400" width="500" alt="GIF" align="center" src="https://github.com/704494891/704494891/blob/main/1936.gif">
+  <img hight="400" width="500" alt="GIF" align="center" src="https://github.com/YeYaJi/YeYaJi/blob/main/1936.gif">
  
 </p>
 
@@ -7,7 +7,7 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/704494891"><img src="https://github-readme-stats.vercel.app/api?username=704494891&hide_border=true&show_icons=true" alt="yeyaji's github stats"></a>
+  <a href="https://github.com/YeYaJi"><img src="https://github-readme-stats.vercel.app/api?username=YeYaJi&hide_border=true&show_icons=true" alt="yeyaji's github stats"></a>
 </p>
 
 <p align="center">
